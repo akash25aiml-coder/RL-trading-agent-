@@ -1,0 +1,32 @@
+{
+  "AAPL": {
+    "asset": "AAPL",
+    "n_train_days": 9421,
+    "n_test_days": 1600,
+    "agent_total_return": 2.149132926303122,
+    "agent_sharpe": 0.7553402378742012,
+    "agent_max_drawdown": -0.40622923016404416,
+    "bh_total_return": 4.781662065778551,
+    "bh_sharpe": 1.0423246807927982
+  },
+  "MSFT": {
+    "asset": "MSFT",
+    "n_train_days": 8294,
+    "n_test_days": 1400,
+    "agent_total_return": 1.4972298875610495,
+    "agent_sharpe": 0.7262059528060337,
+    "agent_max_drawdown": -0.3626741448442152,
+    "bh_total_return": 3.195705116337626,
+    "bh_sharpe": 1.0257937850271468
+  },
+  "INTC": {
+    "asset": "INTC",
+    "n_train_days": 9581,
+    "n_test_days": 1600,
+    "agent_total_return": 0.22684634396199987,
+    "agent_sharpe": 0.27239787204261673,
+    "agent_max_drawdown": -0.4450422387762257,
+    "bh_total_return": -0.2813367150972099,
+    "bh_sharpe": 0.05497392792413879
+  }
+}
