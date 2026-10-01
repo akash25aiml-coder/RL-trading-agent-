@@ -1,0 +1,5 @@
+__pycache__/
+.git/
+*.pkl
+*.npy
+!models/*.npy
